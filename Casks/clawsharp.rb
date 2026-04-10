@@ -1,12 +1,12 @@
 cask "clawsharp" do
-  version "0.0.4"
+  version "0.0.5"
   on_arm do
-    url "https://github.com/claw-sharp/ClawSharp/releases/download/desktop-v0.0.4/ClawSharp_0.0.4_darwin_aarch64.dmg"
-    sha256 "390e2ecbc3ccf39cceb6882f23ebe0c14df5e65a149683265d2b953230722d92"
+    url "https://github.com/claw-sharp/ClawSharp/releases/download/desktop-v0.0.5/ClawSharp_0.0.5_darwin_aarch64.dmg"
+    sha256 "f4c2d225b5195216d23c8fa646b2850e2c283191a027d178547cbef6494ee4b3"
   end
   on_intel do
-    url "https://github.com/claw-sharp/ClawSharp/releases/download/desktop-v0.0.4/ClawSharp_0.0.4_darwin_x86_64.dmg"
-    sha256 "0d09f4d0b2cb1b5f545f01995f66f1186a8b4fcf140a03262d6ab81023886850"
+    url "https://github.com/claw-sharp/ClawSharp/releases/download/desktop-v0.0.5/ClawSharp_0.0.5_darwin_x86_64.dmg"
+    sha256 "380759275a72e674bae25bad51cec95f51e9a8e5ccaea09c38d2891600be39ff"
   end
 
   name "ClawSharp"
